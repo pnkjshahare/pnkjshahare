@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer & Programmer from India</h3>
 
 - 🔭 I’m currently working on [Real Estate marketplace](https://github.com/pnkjshahare/Machine-Learning-projects/tree/main/Regression)
 
