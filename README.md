@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at - <a href="https://new-portfoilo-website.vercel.app/" target="_blank">PORTFOLIO</a>
 
-- 📫 How to reach me **shaharepnkj@gmail.com**
+- 📫 How to reach me -  **shaharepnkj@gmail.com**
 
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1GH9CK_yMlbaF0BLGkqpqhVKqrflD4oqE/view?usp=sharing" target="_blank">RESUME</a>
 
