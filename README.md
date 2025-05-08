@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shahare</h1>
 <h3 align="center">A passionate FullStack developer & Programmer from India</h3>
 
-- 🔭 I’m currently working on -  [LiveCodeHub](https://live-code-hub.vercel.app/)
+- 🔭 I’m currently working on - <a href="https://live-code-hub.vercel.app/" target="_blank">LIVECODEHUB</a>
 
-- 🌱 I’m currently learning **React.js , Next.js , GenAI , BlockChain**
+- 🌱 I’m currently learning **React.js, Next.js, GenAI, Blockchain**
 
-- 👨‍💻 All of my projects are available at -  [PORTFOLIO](https://new-portfoilo-website.vercel.app/)
+- 👨‍💻 All of my projects are available at - <a href="https://new-portfoilo-website.vercel.app/" target="_blank">PORTFOLIO</a>
 
 - 📫 How to reach me **shaharepnkj@gmail.com**
 
-- 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1GH9CK_yMlbaF0BLGkqpqhVKqrflD4oqE/view?usp=sharing )
-- 💻 Check out my coding journey - [CODOLIO](https://codolio.com/profile/62E3efrk)
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1GH9CK_yMlbaF0BLGkqpqhVKqrflD4oqE/view?usp=sharing" target="_blank">RESUME</a>
+
+- 💻 Check out my coding journey - <a href="https://codolio.com/profile/62E3efrk" target="_blank">CODOLIO</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
