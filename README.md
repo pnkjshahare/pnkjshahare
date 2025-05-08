@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shahare</h1>
 <h3 align="center">A passionate FullStack developer & Programmer from India</h3>
 
-- 🔭 I’m currently working on [LiveCodeHub](https://live-code-hub.vercel.app/)
+- 🔭 I’m currently working on -  [LiveCodeHub](https://live-code-hub.vercel.app/)
 
-- 🌱 I’m currently learning **React.js , Next.js**
+- 🌱 I’m currently learning **React.js , Next.js , GenAI , BlockChain**
 
-- 👨‍💻 All of my projects are available at [https://new-portfoilo-website.vercel.app/](https://new-portfoilo-website.vercel.app/)
+- 👨‍💻 All of my projects are available at -  [PORTFOLIO](https://new-portfoilo-website.vercel.app/)
 
 - 📫 How to reach me **shaharepnkj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fgd1XCt5cozqrIxIP54DhUUeqUascznw/view](https://drive.google.com/file/d/1Fgd1XCt5cozqrIxIP54DhUUeqUascznw/view)
+- 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1GH9CK_yMlbaF0BLGkqpqhVKqrflD4oqE/view?usp=sharing )
+- 💻 Check out my coding journey - [CODOLIO](https://codolio.com/profile/62E3efrk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/pankaj-shahare](https://www.linkedin.com/in/pankaj-shahare-140a89239/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-shahare" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/pankaj-shahare-140a89239/](https://www.linkedin.com/in/pankaj-shahare-140a89239/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-shahare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shahare_pnkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahare_pnkj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pankajsa6tmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pankajsa6tmk" height="30" width="40" /></a>
 </p>
